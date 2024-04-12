@@ -1,0 +1,7 @@
+# About the Authors
+
+**Brian Caffo** is a Professor in the Department of Biostatistics at the Johns Hopkins University Bloomberg School of Public Health. He co-leads a working group, [www.smart-stats.org](www.smart-stats.org), that focuses on the statistical analysis of imaging and biosignals. He is the recipient of the Presidential Early Career Award for Scientists and Engineers and was named a fellow of the American Statistical Association.
+
+**Roger D. Peng** is a Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health. He is also a Co-Founder of the [Johns Hopkins Data Science Specialization](http://www.coursera.org/specialization/jhudatascience/1), the [Johns Hopkins Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science), the [Simply Statistics blog](http://simplystatistics.org/) where he writes about statistics and data science for the general public, and the [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) podcast. Roger can be found on Twitter and GitHub under the user name [@rdpeng](https://twitter.com/rdpeng).
+
+**Jeffrey T. Leek** is a Professor of Biostatistics and Oncology at the Johns Hopkins Bloomberg School of Public Health. [His research](http://jtleek.github.io/) focuses on the intersection of high dimensional data analysis, genomics, and public health. He is the Co-Editor of the popular Simply Statistics Blog and Co-Director of the Johns Hopkins Specialization in Data Science the largest data science program in the world.
